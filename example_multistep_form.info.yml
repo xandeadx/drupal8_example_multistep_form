@@ -1,0 +1,5 @@
+name: 'Example Multistep Form'
+type: module
+description: 'Example multistep form'
+package: Custom
+core_version_requirement: ^10
